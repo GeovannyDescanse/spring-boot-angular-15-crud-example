@@ -4,7 +4,7 @@ public class Calculator {
 
     public static void main(String args[]) {
         System.out.println(suma(785, 967, 325));
-        System.out.println(division(643, 82));
+        System.out.println(division(641, 82));
     }
 
     public static Integer suma(int num1, int num2, int num3) {
